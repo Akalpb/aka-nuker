@@ -1,0 +1,37 @@
+{
+  "name": "aka-lpb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-styles": "^4.3.0",
+    "asynckit": "^0.4.0",
+    "chalk": "^4.1.2",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "discord-api-types": "^0.33.5",
+    "discord.js": "^13.16.0",
+    "fast-deep-equal": "^3.1.3",
+    "form-data": "^4.0.0",
+    "has-flag": "^4.0.0",
+    "lodash": "^4.17.21",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "node-fetch": "^2.6.12",
+    "supports-color": "^7.2.0",
+    "tr46": "^0.0.3",
+    "ts-mixer": "^6.0.3",
+    "tslib": "^2.6.0",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aka",
+  "license": "ISC"
+}
